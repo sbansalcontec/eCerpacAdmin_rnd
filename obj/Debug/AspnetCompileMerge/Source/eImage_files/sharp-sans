@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 280;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Thin Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 280;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Thin.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Light Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Medium Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Semibold Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Semibold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Bold Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/SharpSansBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans ExtraBold Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Sharp Sans'), url('https://fonts.cdnfonts.com/s/57748/Sharp Sans Extrabold.woff') format('woff');
+}
+
+

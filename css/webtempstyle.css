@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
+a{
+    color: #4294FF;
+}
+
+.email-ctrl{
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+
+}
+.email-header{
+    background-color: #E7E7E7;
+}
+.ctrl{
+    width: 96%;
+    margin: 0px auto;
+}
+.email-body{
+   width: 88%;
+   margin: 0px auto;
+   padding-bottom: 30px;
+}
+.mail-header{
+    padding: 30px 0px;
+    display: flex;
+    flex-direction: row;
+    gap:100px
+}
+.mail-header-otp{
+    padding: 30px 0px;
+    display: flex;
+    flex-direction: column;
+    gap:15px
+}
+.mail-header h2, .mail-body h2, .chalan-detail h2 {
+    font-size: 18px;
+}
+.mail-header h2 span, .chalan-detail h2 span{
+    font-weight: normal;
+}
+.mail-body{
+    padding-bottom: 30px;
+}
+.mail-body h2{
+    padding-bottom: 25px;
+}
+
+.mail-body p{
+    padding-bottom: 20px;
+}
+.body-para {
+    padding-top: 10px;
+}
+.chalan{
+    padding-bottom: 15px;
+}
+.chalan-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.mail-footer{
+    padding-bottom: 10px;
+}
+.email-footer{
+    background-color:#357A4A;
+    border-top: 10px solid #60B244;
+    color: #fff;
+    text-align: center;
+    padding:25px 0px;
+}
+
+@media screen and (max-width: 768px) {
+    .mail-header {
+      flex-direction: column;
+      gap:50px;
+    }
+    .chalan-detail{
+      flex-direction: column;
+      justify-content:left;
+    }
+  }
+  
