@@ -992,7 +992,7 @@ namespace eCerpac_NIS
                         //lbl_total.Text = dt.Rows.Count.ToString();
                         gdEImage.DataSource = null;
                         gdEImage.DataBind();
-                    }
+                    } //test
                 }
 
             }
